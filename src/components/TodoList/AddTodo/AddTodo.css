@@ -1,0 +1,9 @@
+#add-todo {
+    width: 1.4em;
+    height: 1.4em;
+    border-radius: 50%;
+    background-image: url("../../../../src/assets/plus.svg");
+    background-position: center;
+    border: 2px solid #c0c0c0;
+    background-color: transparent;
+}

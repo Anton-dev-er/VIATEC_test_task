@@ -1,0 +1,11 @@
+#update-todo {
+    right: 2.4em;
+    background-image: url("../../../../src/assets/pencil-square.svg");
+    width: 1.4em;
+    height: 1.4em;
+    position: absolute;
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: unset;
+}

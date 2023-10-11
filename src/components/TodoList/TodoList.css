@@ -1,0 +1,9 @@
+.todo-list__item {
+    border: unset !important;
+    width: 100%
+}
+
+.todo-list__filter {
+    margin-left: 1em;
+    margin-top: 2em;
+}
